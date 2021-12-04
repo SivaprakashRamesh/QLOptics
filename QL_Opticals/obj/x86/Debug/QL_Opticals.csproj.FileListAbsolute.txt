@@ -1,0 +1,16 @@
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\bin\x86\Debug\QL_Opticals.exe.config
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\bin\x86\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\bin\x86\Debug\QL_Opticals.pdb
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.csprojResolveAssemblyReference.cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Presentation.Administration.FrmCompany.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Presentation.FrmBookOrder.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Presentation.FrmCrePrescription.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Presentation.FrmDashboard.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Presentation.FrmGenSettings.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Presentation.FrmMdi.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Presentation.FrmUtil.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.Properties.Resources.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.csproj.GenerateResource.Cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.exe.licenses
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\x86\Debug\QL_Opticals.pdb

@@ -1,0 +1,212 @@
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\bin\Debug\QL_Opticals.exe.config
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\bin\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\bin\Debug\QL_Opticals.pdb
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.csprojResolveAssemblyReference.cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmBookOrder.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmCrePrescription.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmDashboard.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmGenSettings.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmMdi.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmUtil.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.Properties.Resources.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.csproj.GenerateResource.Cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.exe.licenses
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 260221\QL_Opticals\obj\Debug\QL_Opticals.pdb
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\bin\Debug\QL_Opticals.exe.config
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.pdb
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\bin\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\bin\Debug\QL_Opticals.pdb
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.csprojResolveAssemblyReference.cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmCompany.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmLogin.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.Alerts.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.CFLControl.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Listing.FrmInvoiceListing.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Listing.FrmPaymentBreakup.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Listing.FrmProductListing.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCancelOrders.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomerList.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomers.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmDoctors.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmGroupCustomerUser.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmHospital.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmSalesRep.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmStatusReport.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmUsers.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmBookOrder.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmCrePrescription.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmDashboard.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmGenSettings.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmMdi.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmUtil.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCounterSales.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCreateJob.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmDeliveryDateChange.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmGenInvoice.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveAdvance.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveStock.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReplacement.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSalesReturn.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSendStockOut.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmTrackOrders.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.Properties.Resources.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.csproj.GenerateResource.Cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals - 020321\QL_Opticals\obj\Debug\QL_Opticals.exe.licenses
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe.config
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.pdb
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csprojResolveAssemblyReference.cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmLogin.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.Alerts.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.CFLControl.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCancelOrders.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomerList.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomers.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmDoctors.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmGroupCustomerUser.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmHospital.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmSalesRep.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmStatusReport.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmUsers.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Reports.PendingJobsReport.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmCrePrescription.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmDashboard.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmGenSettings.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmMdi.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmUtil.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCounterSales.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCreateJob.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmDeliveryDateChange.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmGenInvoice.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveAdvance.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveStock.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReplacement.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSalesReturn.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSendStockOut.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmTrackOrders.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Properties.Resources.resources
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csproj.GenerateResource.Cache
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe.licenses
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.pdb
+E:\Project\QL\Opticals\SourceCode\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmBookOrder.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe.config
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.pdb
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.pdb
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csprojResolveAssemblyReference.cache
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmLogin.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCancelOrders.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomerList.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomers.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmDoctors.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmGroupCustomerUser.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmHospital.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmSalesRep.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmStatusReport.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmUsers.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Reports.PendingJobsReport.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmBookOrder.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmCrePrescription.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmDashboard.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmGenSettings.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmMdi.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmUtil.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCounterSales.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCreateJob.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmDeliveryDateChange.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmGenInvoice.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveAdvance.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveStock.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReplacement.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSalesReturn.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSendStockOut.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmTrackOrders.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Properties.Resources.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csproj.GenerateResource.Cache
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe.licenses
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe.config
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.pdb
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.pdb
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csprojResolveAssemblyReference.cache
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmLogin.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.Alerts.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.CFLControl.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCancelOrders.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomerList.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomers.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmDoctors.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmGroupCustomerUser.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmHospital.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmSalesRep.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmStatusReport.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmUsers.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Reports.PendingJobsReport.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmBookOrder.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmCrePrescription.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmDashboard.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmGenSettings.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmMdi.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmUtil.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCounterSales.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCreateJob.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmDeliveryDateChange.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmGenInvoice.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveAdvance.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveStock.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReplacement.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSalesReturn.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSendStockOut.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmTrackOrders.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Properties.Resources.resources
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csproj.GenerateResource.Cache
+D:\Project\QL\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe.licenses
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmAbout.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe.config
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.pdb
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csprojResolveAssemblyReference.cache
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmAbout.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmLogin.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.Alerts.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Controls.CFLControl.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCancelOrders.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomerList.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmCustomers.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmDoctors.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmGroupCustomerUser.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmHospital.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmSalesRep.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmStatusReport.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmUsers.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Reports.PendingJobsReport.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmBookOrder.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmCrePrescription.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmDashboard.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmGenSettings.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmMdi.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.FrmUtil.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCounterSales.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmCreateJob.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmDeliveryDateChange.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmGenInvoice.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveAdvance.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReceiveStock.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmReplacement.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSalesReturn.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmSendStockOut.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Transactions.FrmTrackOrders.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Properties.Resources.resources
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.csproj.GenerateResource.Cache
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.exe.licenses
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.exe
+\\DESKTOP-45L7KGJ\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\bin\Debug\QL_Opticals.pdb
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.QLControls.Alerts.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.QLControls.CFLControl.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Master.FrmSupplier.resources
+E:\Project\QL\Sourcecode\Opticals\QL_Opticals\QL_Opticals\obj\Debug\QL_Opticals.Presentation.Administration.FrmSeries.resources
